@@ -185,18 +185,3 @@ col_names = ['CRIM','ZN','INDUS','CHAS','NOX','RM','AGE','DIS','RAD','TAX','PTRA
 data.columns = col_names
 
 print(data.head())
-
-!git init
-
-!git add .
-
-!git commit -m "FIR"
-
-!git config --global --list
-
-!git init
-!git add README.md
-!git commit -m "first commit"
-!git branch -M main
-!git remote add origin https://github.com/ddd239/BIGDATA.git
-!git push -u origin main
